@@ -1,0 +1,6 @@
+c:\users\derek\documents\visual studio 2015\Projects\L7 _StudentInformation\L7 _StudentInformation\bin\Debug\L7 _StudentInformation.exe.config
+c:\users\derek\documents\visual studio 2015\Projects\L7 _StudentInformation\L7 _StudentInformation\bin\Debug\L7 _StudentInformation.exe
+c:\users\derek\documents\visual studio 2015\Projects\L7 _StudentInformation\L7 _StudentInformation\bin\Debug\L7 _StudentInformation.pdb
+c:\users\derek\documents\visual studio 2015\Projects\L7 _StudentInformation\L7 _StudentInformation\obj\Debug\L7 _StudentInformation.csprojResolveAssemblyReference.cache
+c:\users\derek\documents\visual studio 2015\Projects\L7 _StudentInformation\L7 _StudentInformation\obj\Debug\L7 _StudentInformation.exe
+c:\users\derek\documents\visual studio 2015\Projects\L7 _StudentInformation\L7 _StudentInformation\obj\Debug\L7 _StudentInformation.pdb
